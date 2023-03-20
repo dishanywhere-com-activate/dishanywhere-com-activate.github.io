@@ -54,7 +54,7 @@ dishanywhere.com/active lets you watch TV on your phone, tablet, or computer. An
 * Using an HDMI cable, connect your TV to the Xbox One.
 * You will need to use a separate HDMI cable to connect your Xbox One to your DISH receiver.
 * Secondly, launch your Xbox One console and select the LiveTV setup icon from the Entertainment Hub, and follow the onscreen instructions.
-* * After answering the questions, select the Set up your cable box or satellite box option. 
+* After answering the questions, select the Set up your cable box or satellite box option. 
 * Your Xbox will automatically begin searching for an HDMI connection.
 * Press the Next button to use your Dish receiver's channel.lineup to populate the Xbox One guide.Alternatively, select "You experience poor video quality or a black screen when watching TV with the Xbox One." 
 * Once Live TV appears, click Next.After entering your postal code, click on "Proceed." 
